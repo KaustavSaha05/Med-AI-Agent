@@ -1,0 +1,3724 @@
+[
+  {
+    "patient_id": "P0001",
+  "name": "Aritra Chowdhury",
+    "age": 21,
+    "gender": "Male",
+    "email": "victoria73@example.com",
+    "phone": "+1-209-961-9487x2507",
+    "conditions": [
+      "Asthma",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Montelukast",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-05-12"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-04-11"
+      }
+    ],
+    "baseline_adherence": 0.67,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0002",
+  "name": "Kaustav Saha",
+    "age": 27,
+    "gender": "Male",
+    "email": "carolbray@example.org",
+    "phone": "225.597.5515x7738",
+    "conditions": [
+      "High Cholesterol",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-02-16"
+      },
+      {
+        "name": "Glipizide",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2025-07-13"
+      }
+    ],
+    "baseline_adherence": 0.5,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0003",
+  "name": "Soumyendu Sekhar Bandyopadhyay",
+    "age": 64,
+    "gender": "Male",
+    "email": "veronicalopez@example.com",
+    "phone": "821.911.3934",
+    "conditions": [
+      "Anxiety",
+      "Asthma",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-09"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-16"
+      },
+      {
+        "name": "Fluoxetine",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-06-23"
+      }
+    ],
+    "baseline_adherence": 0.65,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0004",
+  "name": "Susovan Jana",
+    "age": 47,
+    "gender": "Male",
+    "email": "murphykyle@example.org",
+    "phone": "215-470-5927",
+    "conditions": [
+      "Depression",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-08-04"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2024-11-25"
+      }
+    ],
+    "baseline_adherence": 0.69,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0005",
+    "name": "Ian Mcclain",
+    "age": 34,
+    "gender": "Male",
+    "email": "benjamincruz@example.org",
+    "phone": "9776572866",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-08-08"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-03-15"
+      }
+    ],
+    "baseline_adherence": 0.57,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0006",
+    "name": "Bruce Lambert",
+    "age": 61,
+    "gender": "Female",
+    "email": "zstafford@example.org",
+    "phone": "303-331-1251",
+    "conditions": [
+      "Depression",
+      "High Cholesterol",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2024-12-11"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-11-27"
+      },
+      {
+        "name": "Albuterol",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-06-16"
+      }
+    ],
+    "baseline_adherence": 0.45,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0007",
+    "name": "Jennifer Griffith",
+    "age": 39,
+    "gender": "Male",
+    "email": "richard12@example.net",
+    "phone": "001-855-383-8439x45781",
+    "conditions": [
+      "Asthma",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-04-09"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-08-08"
+      }
+    ],
+    "baseline_adherence": 0.57,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0008",
+    "name": "Thomas Morgan",
+    "age": 39,
+    "gender": "Female",
+    "email": "john83@example.net",
+    "phone": "688-355-9517",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-06-06"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-03-21"
+      }
+    ],
+    "baseline_adherence": 0.59,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0009",
+    "name": "Nicholas Patterson",
+    "age": 64,
+    "gender": "Male",
+    "email": "nancy81@example.org",
+    "phone": "589.746.5646x293",
+    "conditions": [
+      "Depression",
+      "High Cholesterol",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Sertraline",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-02-03"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-19"
+      },
+      {
+        "name": "Albuterol",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-06"
+      }
+    ],
+    "baseline_adherence": 0.32,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0010",
+    "name": "David Romero",
+    "age": 75,
+    "gender": "Female",
+    "email": "karencollins@example.net",
+    "phone": "(305)237-5741",
+    "conditions": [
+      "Hypertension",
+      "GERD",
+      "Arthritis",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-06-28"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-05-18"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2024-11-01"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-09-11"
+      }
+    ],
+    "baseline_adherence": 0.67,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0011",
+    "name": "Stephanie Rojas MD",
+    "age": 62,
+    "gender": "Male",
+    "email": "nancysanchez@example.com",
+    "phone": "+1-595-689-7776",
+    "conditions": [
+      "Hypertension",
+      "Anxiety",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-01-14"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-04-04"
+      },
+      {
+        "name": "Glipizide",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2024-12-21"
+      }
+    ],
+    "baseline_adherence": 0.66,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0012",
+    "name": "Thomas Hale",
+    "age": 56,
+    "gender": "Male",
+    "email": "paulrussell@example.net",
+    "phone": "821.601.7354x381",
+    "conditions": [
+      "Hypertension",
+      "Depression",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-06-04"
+      },
+      {
+        "name": "Bupropion",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-03-02"
+      },
+      {
+        "name": "Pantoprazole",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-05-21"
+      }
+    ],
+    "baseline_adherence": 0.35,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0013",
+    "name": "Jaime Morrison",
+    "age": 51,
+    "gender": "Female",
+    "email": "james71@example.com",
+    "phone": "332-849-4625x14922",
+    "conditions": [
+      "Diabetes",
+      "Anxiety",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2024-11-15"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2024-11-04"
+      },
+      {
+        "name": "Fluoxetine",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-01-29"
+      }
+    ],
+    "baseline_adherence": 0.42,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0014",
+    "name": "Travis Brown",
+    "age": 40,
+    "gender": "Female",
+    "email": "sdavis@example.com",
+    "phone": "262-730-1888x55283",
+    "conditions": [
+      "GERD",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-01-21"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "baseline_adherence": 0.69,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0015",
+    "name": "Carlos Foster",
+    "age": 39,
+    "gender": "Male",
+    "email": "palmerjohnny@example.net",
+    "phone": "001-592-824-7833",
+    "conditions": [
+      "Anxiety",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-06-28"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-04-22"
+      }
+    ],
+    "baseline_adherence": 0.55,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0016",
+    "name": "Todd Douglas",
+    "age": 70,
+    "gender": "Male",
+    "email": "jamesblake@example.net",
+    "phone": "+1-827-849-6749x4097",
+    "conditions": [
+      "Hypertension",
+      "Arthritis",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2024-12-10"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-25"
+      },
+      {
+        "name": "Bupropion",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-09-15"
+      }
+    ],
+    "baseline_adherence": 0.5,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0017",
+    "name": "Kaitlyn Gross",
+    "age": 36,
+    "gender": "Female",
+    "email": "ibonilla@example.net",
+    "phone": "+1-641-738-7315x9994",
+    "conditions": [
+      "Depression",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-02-13"
+      },
+      {
+        "name": "Pantoprazole",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-05-11"
+      }
+    ],
+    "baseline_adherence": 0.7,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0018",
+    "name": "David Baldwin",
+    "age": 77,
+    "gender": "Male",
+    "email": "dhines@example.com",
+    "phone": "(727)636-4401",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol",
+      "Diabetes",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Celecoxib",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-02-23"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-20"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2025-05-27"
+      },
+      {
+        "name": "Fluoxetine",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-06-10"
+      }
+    ],
+    "baseline_adherence": 0.31,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0019",
+    "name": "Sherry Harrell",
+    "age": 26,
+    "gender": "Male",
+    "email": "vincent79@example.net",
+    "phone": "001-358-690-4061x232",
+    "conditions": [
+      "Depression",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-05-12"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-02-25"
+      }
+    ],
+    "baseline_adherence": 0.54,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0020",
+    "name": "William Hall",
+    "age": 25,
+    "gender": "Male",
+    "email": "rachael38@example.net",
+    "phone": "622.532.7353",
+    "conditions": [
+      "Anxiety",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Alprazolam",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2024-12-30"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-07-08"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0021",
+    "name": "Julie Nunez",
+    "age": 44,
+    "gender": "Female",
+    "email": "nancysmith@example.com",
+    "phone": "+1-801-958-8687x934",
+    "conditions": [
+      "Hypertension",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-01-08"
+      },
+      {
+        "name": "Ibuprofen",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2024-11-28"
+      }
+    ],
+    "baseline_adherence": 0.7,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0022",
+    "name": "Michael Perez",
+    "age": 64,
+    "gender": "Female",
+    "email": "rwatson@example.net",
+    "phone": "(286)338-5190x8718",
+    "conditions": [
+      "Diabetes",
+      "Asthma",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2024-12-03"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-10-27"
+      },
+      {
+        "name": "Losartan",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2024-10-20"
+      }
+    ],
+    "baseline_adherence": 0.5,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0023",
+    "name": "Ryan Ingram",
+    "age": 53,
+    "gender": "Female",
+    "email": "scottjames@example.com",
+    "phone": "561-249-5368x79548",
+    "conditions": [
+      "Hypertension",
+      "Arthritis",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Losartan",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-07-18"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2024-12-08"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-01-05"
+      }
+    ],
+    "baseline_adherence": 0.59,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0024",
+    "name": "Scott Flores",
+    "age": 78,
+    "gender": "Male",
+    "email": "smithjonathan@example.org",
+    "phone": "316.353.9112",
+    "conditions": [
+      "Hypertension",
+      "Asthma",
+      "Depression",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-01-13"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-03-13"
+      },
+      {
+        "name": "Fluoxetine",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-09-10"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-04-20"
+      }
+    ],
+    "baseline_adherence": 0.7,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0025",
+    "name": "Mary Miller",
+    "age": 53,
+    "gender": "Female",
+    "email": "ihernandez@example.com",
+    "phone": "(849)738-2354",
+    "conditions": [
+      "High Cholesterol",
+      "GERD",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-11-24"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-01-28"
+      },
+      {
+        "name": "Fluoxetine",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-05-12"
+      }
+    ],
+    "baseline_adherence": 0.44,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0026",
+    "name": "Kevin Harding",
+    "age": 28,
+    "gender": "Female",
+    "email": "davidstevenson@example.net",
+    "phone": "397.467.5445x21274",
+    "conditions": [
+      "Asthma",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-07"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2024-11-12"
+      }
+    ],
+    "baseline_adherence": 0.68,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0027",
+    "name": "Shaun Wood",
+    "age": 29,
+    "gender": "Female",
+    "email": "georgedurham@example.com",
+    "phone": "530.685.5012",
+    "conditions": [
+      "Arthritis",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Prednisone",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-08-19"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-26"
+      }
+    ],
+    "baseline_adherence": 0.54,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0028",
+    "name": "Phillip Thomas",
+    "age": 51,
+    "gender": "Female",
+    "email": "zstewart@example.com",
+    "phone": "(550)975-1056x3336",
+    "conditions": [
+      "Anxiety",
+      "Arthritis",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-08-23"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-02-12"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-04-04"
+      }
+    ],
+    "baseline_adherence": 0.53,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0029",
+    "name": "Jonathan Green",
+    "age": 33,
+    "gender": "Male",
+    "email": "annedalton@example.org",
+    "phone": "905-962-2281x104",
+    "conditions": [
+      "Depression",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-07-09"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-08"
+      }
+    ],
+    "baseline_adherence": 0.63,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0030",
+    "name": "Brandon Miller",
+    "age": 63,
+    "gender": "Male",
+    "email": "robertmartin@example.org",
+    "phone": "+1-438-673-4565",
+    "conditions": [
+      "Anxiety",
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-07-05"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-03-05"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-06"
+      }
+    ],
+    "baseline_adherence": 0.31,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0031",
+    "name": "Hector Craig",
+    "age": 82,
+    "gender": "Male",
+    "email": "mriley@example.org",
+    "phone": "+1-921-645-6390",
+    "conditions": [
+      "Arthritis",
+      "Diabetes",
+      "Hypertension",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-08-31"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-03-15"
+      },
+      {
+        "name": "Metoprolol",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-06-17"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-07-22"
+      }
+    ],
+    "baseline_adherence": 0.38,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0032",
+    "name": "Elizabeth Monroe",
+    "age": 80,
+    "gender": "Male",
+    "email": "perkinsdan@example.org",
+    "phone": "001-413-639-8854",
+    "conditions": [
+      "Asthma",
+      "High Cholesterol",
+      "Anxiety",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Fluticasone",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-01-17"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-28"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-15"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2024-10-27"
+      }
+    ],
+    "baseline_adherence": 0.63,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0033",
+    "name": "Sharon Perez",
+    "age": 34,
+    "gender": "Male",
+    "email": "despinoza@example.com",
+    "phone": "+1-937-877-9216x47756",
+    "conditions": [
+      "High Cholesterol",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Simvastatin",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-13"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-04-28"
+      }
+    ],
+    "baseline_adherence": 0.49,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0034",
+    "name": "Kara Adams",
+    "age": 34,
+    "gender": "Male",
+    "email": "zoe89@example.com",
+    "phone": "+1-960-806-6024",
+    "conditions": [
+      "Depression",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2024-11-16"
+      },
+      {
+        "name": "Losartan",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-08-13"
+      }
+    ],
+    "baseline_adherence": 0.64,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0035",
+    "name": "Eric Morris",
+    "age": 83,
+    "gender": "Female",
+    "email": "sergio41@example.net",
+    "phone": "+1-897-690-8312",
+    "conditions": [
+      "Hypertension",
+      "Anxiety",
+      "Depression",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Metoprolol",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2024-11-15"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-03-14"
+      },
+      {
+        "name": "Sertraline",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-02-04"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-01-12"
+      }
+    ],
+    "baseline_adherence": 0.63,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0036",
+    "name": "Michael Burke",
+    "age": 34,
+    "gender": "Male",
+    "email": "vasquezbenjamin@example.org",
+    "phone": "+1-278-395-4961",
+    "conditions": [
+      "Depression",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Fluoxetine",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-05-10"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-20"
+      }
+    ],
+    "baseline_adherence": 0.66,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0037",
+    "name": "Jennifer Wilson",
+    "age": 57,
+    "gender": "Female",
+    "email": "samanthastewart@example.net",
+    "phone": "001-886-299-1151x23888",
+    "conditions": [
+      "Hypertension",
+      "Asthma",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Losartan",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-04-02"
+      },
+      {
+        "name": "Albuterol",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-10-22"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-12-30"
+      }
+    ],
+    "baseline_adherence": 0.34,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0038",
+    "name": "Ebony Burns",
+    "age": 31,
+    "gender": "Male",
+    "email": "ashleyfletcher@example.org",
+    "phone": "(794)258-4839x0663",
+    "conditions": [
+      "Hypertension",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-07-11"
+      },
+      {
+        "name": "Bupropion",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-03-03"
+      }
+    ],
+    "baseline_adherence": 0.48,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0039",
+    "name": "Brittany Taylor",
+    "age": 49,
+    "gender": "Male",
+    "email": "colinhoffman@example.com",
+    "phone": "001-934-510-8191x1995",
+    "conditions": [
+      "Diabetes",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Glipizide",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2024-11-28"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-06-14"
+      }
+    ],
+    "baseline_adherence": 0.34,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0040",
+    "name": "Miranda Merritt",
+    "age": 37,
+    "gender": "Female",
+    "email": "christy44@example.org",
+    "phone": "+1-220-379-7315",
+    "conditions": [
+      "Arthritis",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-03-04"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-07-14"
+      }
+    ],
+    "baseline_adherence": 0.66,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0041",
+    "name": "Nicole Mcmillan",
+    "age": 80,
+    "gender": "Female",
+    "email": "katie48@example.com",
+    "phone": "(737)559-4483x027",
+    "conditions": [
+      "Hypertension",
+      "Diabetes",
+      "Asthma",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Metoprolol",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-02-24"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2025-04-16"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-08"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-09-10"
+      }
+    ],
+    "baseline_adherence": 0.3,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0042",
+    "name": "Karen Johnson",
+    "age": 60,
+    "gender": "Female",
+    "email": "marilyn23@example.org",
+    "phone": "562.532.4855x45854",
+    "conditions": [
+      "GERD",
+      "Anxiety",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Pantoprazole",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-03-09"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2024-12-30"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-07-02"
+      }
+    ],
+    "baseline_adherence": 0.32,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0043",
+    "name": "Kayla Rose PhD",
+    "age": 74,
+    "gender": "Female",
+    "email": "ryankaren@example.org",
+    "phone": "341-237-5389x1061",
+    "conditions": [
+      "GERD",
+      "Asthma",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Omeprazole",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-09-02"
+      },
+      {
+        "name": "Albuterol",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-25"
+      },
+      {
+        "name": "Bupropion",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-05-22"
+      }
+    ],
+    "baseline_adherence": 0.57,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0044",
+    "name": "Christine Cook",
+    "age": 35,
+    "gender": "Male",
+    "email": "elizabethjenkins@example.org",
+    "phone": "(318)460-6472x27581",
+    "conditions": [
+      "Asthma",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Albuterol",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-08-03"
+      },
+      {
+        "name": "Metoprolol",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-05-02"
+      }
+    ],
+    "baseline_adherence": 0.51,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0045",
+    "name": "Christine Callahan",
+    "age": 69,
+    "gender": "Male",
+    "email": "baldwindeborah@example.com",
+    "phone": "216.709.0295",
+    "conditions": [
+      "High Cholesterol",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-30"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2025-04-24"
+      },
+      {
+        "name": "Metoprolol",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2024-11-06"
+      }
+    ],
+    "baseline_adherence": 0.57,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0046",
+    "name": "Kathryn Davis",
+    "age": 25,
+    "gender": "Male",
+    "email": "johnsonderek@example.org",
+    "phone": "(816)712-3969x2651",
+    "conditions": [
+      "Asthma",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Fluticasone",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-24"
+      },
+      {
+        "name": "Lorazepam",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-08-20"
+      }
+    ],
+    "baseline_adherence": 0.56,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0047",
+    "name": "Michelle Williams",
+    "age": 25,
+    "gender": "Male",
+    "email": "elizabeth85@example.org",
+    "phone": "+1-863-327-2333",
+    "conditions": [
+      "Asthma",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Montelukast",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-11-27"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-11-25"
+      }
+    ],
+    "baseline_adherence": 0.42,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0048",
+    "name": "Joshua Glover",
+    "age": 79,
+    "gender": "Male",
+    "email": "natalie43@example.com",
+    "phone": "4105808551",
+    "conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "Arthritis",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-09-12"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-09-17"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-03-09"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2024-11-02"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0049",
+    "name": "Kyle Hawkins",
+    "age": 47,
+    "gender": "Male",
+    "email": "conniegonzales@example.org",
+    "phone": "(219)319-6080",
+    "conditions": [
+      "Depression",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-08-29"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-06-16"
+      }
+    ],
+    "baseline_adherence": 0.69,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0050",
+    "name": "Jacqueline Rivera",
+    "age": 58,
+    "gender": "Male",
+    "email": "nicole63@example.com",
+    "phone": "001-257-265-4316x7623",
+    "conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-03-10"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-11-27"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2024-12-17"
+      }
+    ],
+    "baseline_adherence": 0.66,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0051",
+    "name": "Danny Torres",
+    "age": 81,
+    "gender": "Male",
+    "email": "maysarah@example.com",
+    "phone": "4439683562",
+    "conditions": [
+      "High Cholesterol",
+      "Asthma",
+      "Anxiety",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Rosuvastatin",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-02-02"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-03-15"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-05"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-03-13"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0052",
+    "name": "Sara Dominguez",
+    "age": 32,
+    "gender": "Male",
+    "email": "carl40@example.org",
+    "phone": "001-349-625-5386x142",
+    "conditions": [
+      "Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Januvia",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-05-22"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-05-07"
+      }
+    ],
+    "baseline_adherence": 0.61,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0053",
+    "name": "Emily Ross",
+    "age": 49,
+    "gender": "Female",
+    "email": "david66@example.net",
+    "phone": "+1-733-527-6347",
+    "conditions": [
+      "Depression",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Bupropion",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-06-27"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-01-04"
+      }
+    ],
+    "baseline_adherence": 0.6,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0054",
+    "name": "Kevin Caldwell",
+    "age": 75,
+    "gender": "Female",
+    "email": "paul08@example.org",
+    "phone": "582.508.7404x884",
+    "conditions": [
+      "GERD",
+      "Arthritis",
+      "High Cholesterol",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Ranitidine",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-05-05"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-04-27"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-02-18"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-04-04"
+      }
+    ],
+    "baseline_adherence": 0.59,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0055",
+    "name": "Jamie Glenn",
+    "age": 73,
+    "gender": "Male",
+    "email": "veronica27@example.net",
+    "phone": "+1-974-246-4668x70688",
+    "conditions": [
+      "High Cholesterol",
+      "Asthma",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-08-31"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-07"
+      },
+      {
+        "name": "Losartan",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2024-12-18"
+      }
+    ],
+    "baseline_adherence": 0.49,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0056",
+    "name": "Nicholas Bray",
+    "age": 30,
+    "gender": "Female",
+    "email": "tuckerjohnny@example.org",
+    "phone": "875-554-9238x5313",
+    "conditions": [
+      "Anxiety",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-03-21"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2025-03-24"
+      }
+    ],
+    "baseline_adherence": 0.43,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0057",
+    "name": "Robert Scott",
+    "age": 67,
+    "gender": "Male",
+    "email": "curtishayley@example.net",
+    "phone": "800-674-9979x9447",
+    "conditions": [
+      "Arthritis",
+      "Asthma",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-07-03"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-01-14"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2025-03-01"
+      }
+    ],
+    "baseline_adherence": 0.36,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0058",
+    "name": "Samantha Kelly",
+    "age": 79,
+    "gender": "Female",
+    "email": "roneal@example.org",
+    "phone": "001-744-246-5768x27417",
+    "conditions": [
+      "GERD",
+      "Hypertension",
+      "Anxiety",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Pantoprazole",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-07-30"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-07-26"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2024-11-10"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-05-07"
+      }
+    ],
+    "baseline_adherence": 0.45,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0059",
+    "name": "James Meyer",
+    "age": 64,
+    "gender": "Female",
+    "email": "ihurley@example.net",
+    "phone": "383-319-0546x25885",
+    "conditions": [
+      "Diabetes",
+      "GERD",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2025-06-06"
+      },
+      {
+        "name": "Pantoprazole",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-06-23"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-04-03"
+      }
+    ],
+    "baseline_adherence": 0.34,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0060",
+    "name": "Justin Rubio",
+    "age": 34,
+    "gender": "Female",
+    "email": "fernando46@example.org",
+    "phone": "7766538118",
+    "conditions": [
+      "Hypertension",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-04-02"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-14"
+      }
+    ],
+    "baseline_adherence": 0.55,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0061",
+    "name": "Patty Miller",
+    "age": 39,
+    "gender": "Female",
+    "email": "maria17@example.com",
+    "phone": "(920)350-9886x93260",
+    "conditions": [
+      "Depression",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Fluoxetine",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2024-12-16"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-05-25"
+      }
+    ],
+    "baseline_adherence": 0.68,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0062",
+    "name": "Monica Clark",
+    "age": 34,
+    "gender": "Male",
+    "email": "hchen@example.net",
+    "phone": "001-298-309-5882",
+    "conditions": [
+      "Diabetes",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Insulin",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-08-16"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-03-11"
+      }
+    ],
+    "baseline_adherence": 0.33,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0063",
+    "name": "Michael Davis",
+    "age": 67,
+    "gender": "Female",
+    "email": "jean91@example.net",
+    "phone": "(495)227-3096",
+    "conditions": [
+      "Hypertension",
+      "Depression",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Metoprolol",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-05-06"
+      },
+      {
+        "name": "Escitalopram",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-01-29"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-07-02"
+      }
+    ],
+    "baseline_adherence": 0.66,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0064",
+    "name": "Steven Reid III",
+    "age": 42,
+    "gender": "Male",
+    "email": "jonathanmoran@example.com",
+    "phone": "732-904-7023x48690",
+    "conditions": [
+      "Anxiety",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Buspirone",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-07-19"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-02-11"
+      }
+    ],
+    "baseline_adherence": 0.68,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0065",
+    "name": "Stephanie Wilson",
+    "age": 37,
+    "gender": "Female",
+    "email": "keithchristopher@example.net",
+    "phone": "721-299-6407",
+    "conditions": [
+      "Diabetes",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Januvia",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2025-02-17"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2024-10-19"
+      }
+    ],
+    "baseline_adherence": 0.64,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0066",
+    "name": "Lisa Lopez",
+    "age": 26,
+    "gender": "Female",
+    "email": "ywilcox@example.com",
+    "phone": "(332)344-1939x328",
+    "conditions": [
+      "Hypertension",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-08-20"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-04-27"
+      }
+    ],
+    "baseline_adherence": 0.36,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0067",
+    "name": "Kimberly Aguilar",
+    "age": 65,
+    "gender": "Male",
+    "email": "gomezandrea@example.net",
+    "phone": "859.465.5040x8980",
+    "conditions": [
+      "Depression",
+      "Anxiety",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2024-10-27"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-05-26"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-03-18"
+      }
+    ],
+    "baseline_adherence": 0.34,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0068",
+    "name": "Michele Mills",
+    "age": 41,
+    "gender": "Female",
+    "email": "garciastephanie@example.org",
+    "phone": "(973)222-1169",
+    "conditions": [
+      "Asthma",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Fluticasone",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-06-24"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2025-03-31"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0069",
+    "name": "Jessica Sampson",
+    "age": 43,
+    "gender": "Female",
+    "email": "arielthompson@example.org",
+    "phone": "001-467-877-8044x36887",
+    "conditions": [
+      "Asthma",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Montelukast",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-01-15"
+      },
+      {
+        "name": "Lorazepam",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-08-27"
+      }
+    ],
+    "baseline_adherence": 0.36,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0070",
+    "name": "Donna Stark",
+    "age": 68,
+    "gender": "Female",
+    "email": "larrymiller@example.org",
+    "phone": "001-996-870-2463",
+    "conditions": [
+      "Arthritis",
+      "Asthma",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Celecoxib",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2024-11-11"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-09-01"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2024-12-18"
+      }
+    ],
+    "baseline_adherence": 0.33,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0071",
+    "name": "John Ayers",
+    "age": 54,
+    "gender": "Female",
+    "email": "jacobmartinez@example.com",
+    "phone": "698-348-7363",
+    "conditions": [
+      "Depression",
+      "High Cholesterol",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Sertraline",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2025-03-24"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-08-31"
+      },
+      {
+        "name": "Pantoprazole",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-07-08"
+      }
+    ],
+    "baseline_adherence": 0.54,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0072",
+    "name": "Clifford Williams",
+    "age": 80,
+    "gender": "Male",
+    "email": "patrick84@example.com",
+    "phone": "750-940-3387x56784",
+    "conditions": [
+      "GERD",
+      "Hypertension",
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-01-06"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-03-10"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-06-19"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-10-29"
+      }
+    ],
+    "baseline_adherence": 0.44,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0073",
+    "name": "Sheila Rodriguez",
+    "age": 60,
+    "gender": "Male",
+    "email": "bryanpierce@example.org",
+    "phone": "739-582-7247x0625",
+    "conditions": [
+      "Depression",
+      "Asthma",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Sertraline",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-08-12"
+      },
+      {
+        "name": "Albuterol",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-11"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-06-15"
+      }
+    ],
+    "baseline_adherence": 0.42,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0074",
+    "name": "Catherine Collins",
+    "age": 82,
+    "gender": "Male",
+    "email": "burnspeter@example.com",
+    "phone": "(690)259-7832",
+    "conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "GERD",
+      "Depression"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2024-11-26"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-12-15"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-03-27"
+      },
+      {
+        "name": "Escitalopram",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-09-01"
+      }
+    ],
+    "baseline_adherence": 0.6,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0075",
+    "name": "Nathaniel Baker",
+    "age": 82,
+    "gender": "Female",
+    "email": "garciamark@example.com",
+    "phone": "(947)888-4685x3597",
+    "conditions": [
+      "Arthritis",
+      "GERD",
+      "Hypertension",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Prednisone",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-03-05"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-04-28"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "25mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-02-18"
+      },
+      {
+        "name": "Lorazepam",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-01-30"
+      }
+    ],
+    "baseline_adherence": 0.38,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0076",
+    "name": "Stacey Aguilar",
+    "age": 57,
+    "gender": "Female",
+    "email": "morgansavage@example.com",
+    "phone": "984-280-5041x39706",
+    "conditions": [
+      "High Cholesterol",
+      "Asthma",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Simvastatin",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-13"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-08-10"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-05-07"
+      }
+    ],
+    "baseline_adherence": 0.51,
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0077",
+    "name": "Cheryl Dickson",
+    "age": 67,
+    "gender": "Female",
+    "email": "delgadomaria@example.com",
+    "phone": "001-668-389-0447",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Prednisone",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2024-10-28"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-06-24"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-05-22"
+      }
+    ],
+    "baseline_adherence": 0.34,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0078",
+    "name": "Jennifer Hall",
+    "age": 39,
+    "gender": "Female",
+    "email": "bakerrobert@example.com",
+    "phone": "293.697.7741x6448",
+    "conditions": [
+      "Depression",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Bupropion",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2024-12-20"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-30"
+      }
+    ],
+    "baseline_adherence": 0.56,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0079",
+    "name": "Adam Gonzales",
+    "age": 58,
+    "gender": "Male",
+    "email": "shane43@example.org",
+    "phone": "525.207.3094",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Celecoxib",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-06-12"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-05-23"
+      },
+      {
+        "name": "Alprazolam",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-01"
+      }
+    ],
+    "baseline_adherence": 0.43,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0080",
+    "name": "Michael Herrera",
+    "age": 46,
+    "gender": "Female",
+    "email": "hodgesrebecca@example.com",
+    "phone": "001-610-782-8715x08721",
+    "conditions": [
+      "Hypertension",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Losartan",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-04-27"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2025-05-21"
+      }
+    ],
+    "baseline_adherence": 0.33,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0081",
+    "name": "Chad Washington",
+    "age": 59,
+    "gender": "Female",
+    "email": "robertmccarthy@example.org",
+    "phone": "+1-891-821-0327",
+    "conditions": [
+      "Arthritis",
+      "High Cholesterol",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-23"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-09-05"
+      },
+      {
+        "name": "Januvia",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Diabetes",
+        "start_date": "2024-12-20"
+      }
+    ],
+    "baseline_adherence": 0.46,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0082",
+    "name": "Patricia Chapman",
+    "age": 56,
+    "gender": "Male",
+    "email": "delgadofelicia@example.net",
+    "phone": "627.927.9274x93965",
+    "conditions": [
+      "GERD",
+      "Hypertension",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Omeprazole",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-06-06"
+      },
+      {
+        "name": "Losartan",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2024-12-16"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "Diabetes",
+        "start_date": "2024-11-07"
+      }
+    ],
+    "baseline_adherence": 0.31,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0083",
+    "name": "Nichole Vazquez",
+    "age": 41,
+    "gender": "Female",
+    "email": "christinagilmore@example.org",
+    "phone": "822.828.3364x1643",
+    "conditions": [
+      "High Cholesterol",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Rosuvastatin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-09"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-02-19"
+      }
+    ],
+    "baseline_adherence": 0.36,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0084",
+    "name": "Ryan Knapp",
+    "age": 29,
+    "gender": "Male",
+    "email": "tammy88@example.com",
+    "phone": "757.428.6387x889",
+    "conditions": [
+      "Anxiety",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Alprazolam",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-10"
+      },
+      {
+        "name": "Omeprazole",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2025-05-13"
+      }
+    ],
+    "baseline_adherence": 0.37,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0085",
+    "name": "Debra Jackson",
+    "age": 53,
+    "gender": "Female",
+    "email": "freemanbrittany@example.net",
+    "phone": "671.462.4343x036",
+    "conditions": [
+      "Arthritis",
+      "Diabetes",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-18"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2024-12-14"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-12-20"
+      }
+    ],
+    "baseline_adherence": 0.5,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0086",
+    "name": "Jennifer Harrison",
+    "age": 63,
+    "gender": "Female",
+    "email": "tylerwagner@example.org",
+    "phone": "727-802-9512",
+    "conditions": [
+      "Asthma",
+      "Anxiety",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Fluticasone",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Asthma",
+        "start_date": "2025-07-20"
+      },
+      {
+        "name": "Lorazepam",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-07-20"
+      },
+      {
+        "name": "Rosuvastatin",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-02-15"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0087",
+    "name": "Daniel Castro",
+    "age": 66,
+    "gender": "Male",
+    "email": "hgilbert@example.com",
+    "phone": "(603)284-1502x419",
+    "conditions": [
+      "Arthritis",
+      "Asthma",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Prednisone",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-08"
+      },
+      {
+        "name": "Fluticasone",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-05-06"
+      },
+      {
+        "name": "Pantoprazole",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "GERD",
+        "start_date": "2024-10-31"
+      }
+    ],
+    "baseline_adherence": 0.52,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0088",
+    "name": "Terri Cervantes",
+    "age": 79,
+    "gender": "Female",
+    "email": "tarapatton@example.com",
+    "phone": "270-955-5209",
+    "conditions": [
+      "Arthritis",
+      "GERD",
+      "Asthma",
+      "Diabetes"
+    ],
+    "medications": [
+      {
+        "name": "Celecoxib",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "Arthritis",
+        "start_date": "2025-05-07"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-08-21"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2025-04-23"
+      },
+      {
+        "name": "Glipizide",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2024-11-24"
+      }
+    ],
+    "baseline_adherence": 0.49,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0089",
+    "name": "Ashley Guerrero",
+    "age": 48,
+    "gender": "Male",
+    "email": "hudsonscott@example.org",
+    "phone": "387.414.8467x9800",
+    "conditions": [
+      "Depression",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Depression",
+        "start_date": "2025-05-12"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2024-10-23"
+      }
+    ],
+    "baseline_adherence": 0.41,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0090",
+    "name": "Darrell Malone",
+    "age": 78,
+    "gender": "Male",
+    "email": "bgutierrez@example.com",
+    "phone": "9362502327",
+    "conditions": [
+      "Anxiety",
+      "Depression",
+      "Arthritis",
+      "Asthma"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "10mg",
+        "frequency": "once daily",
+        "condition": "Anxiety",
+        "start_date": "2024-12-30"
+      },
+      {
+        "name": "Sertraline",
+        "dosage": "20mg",
+        "frequency": "twice daily",
+        "condition": "Depression",
+        "start_date": "2024-12-01"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Arthritis",
+        "start_date": "2024-10-20"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Asthma",
+        "start_date": "2024-12-05"
+      }
+    ],
+    "baseline_adherence": 0.6,
+    "allergies": [
+      "Penicillin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0091",
+    "name": "Katrina Burns",
+    "age": 59,
+    "gender": "Male",
+    "email": "castillomatthew@example.com",
+    "phone": "001-610-863-4773",
+    "conditions": [
+      "Depression",
+      "Asthma",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Sertraline",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-02-04"
+      },
+      {
+        "name": "Montelukast",
+        "dosage": "10mg",
+        "frequency": "three times daily",
+        "condition": "Asthma",
+        "start_date": "2025-03-31"
+      },
+      {
+        "name": "Naproxen",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2024-12-01"
+      }
+    ],
+    "baseline_adherence": 0.67,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0092",
+    "name": "Sarah Hopkins",
+    "age": 34,
+    "gender": "Male",
+    "email": "michaeltodd@example.org",
+    "phone": "573.979.6622",
+    "conditions": [
+      "Anxiety",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Buspirone",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-08-29"
+      },
+      {
+        "name": "Simvastatin",
+        "dosage": "50mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-04-13"
+      }
+    ],
+    "baseline_adherence": 0.6,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0093",
+    "name": "Mrs. Jacqueline Moody",
+    "age": 53,
+    "gender": "Male",
+    "email": "santiagoadrian@example.net",
+    "phone": "890-699-3303",
+    "conditions": [
+      "Anxiety",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      {
+        "name": "Buspirone",
+        "dosage": "5mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-09-08"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Diabetes",
+        "start_date": "2025-04-11"
+      },
+      {
+        "name": "Amlodipine",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2024-11-22"
+      }
+    ],
+    "baseline_adherence": 0.65,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0094",
+    "name": "Tina Guerrero",
+    "age": 55,
+    "gender": "Female",
+    "email": "wsmith@example.net",
+    "phone": "+1-818-702-2768",
+    "conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "GERD"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "Hypertension",
+        "start_date": "2025-08-30"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "5mg",
+        "frequency": "three times daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-08-10"
+      },
+      {
+        "name": "Ranitidine",
+        "dosage": "10mg",
+        "frequency": "twice daily",
+        "condition": "GERD",
+        "start_date": "2025-08-01"
+      }
+    ],
+    "baseline_adherence": 0.37,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0095",
+    "name": "Mario Castro",
+    "age": 43,
+    "gender": "Female",
+    "email": "rodneyfuentes@example.net",
+    "phone": "+1-748-631-8673",
+    "conditions": [
+      "Hypertension",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-06-29"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-03-24"
+      }
+    ],
+    "baseline_adherence": 0.5,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0096",
+    "name": "Anna Dickson",
+    "age": 56,
+    "gender": "Female",
+    "email": "adkinslorraine@example.org",
+    "phone": "001-377-506-8054x5224",
+    "conditions": [
+      "Depression",
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Escitalopram",
+        "dosage": "100mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-05-27"
+      },
+      {
+        "name": "Prednisone",
+        "dosage": "25mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-09-14"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2024-11-16"
+      }
+    ],
+    "baseline_adherence": 0.31,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0097",
+    "name": "Christina Cruz",
+    "age": 67,
+    "gender": "Female",
+    "email": "christy18@example.org",
+    "phone": "378.653.4696x42907",
+    "conditions": [
+      "Hypertension",
+      "Depression",
+      "Anxiety"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Hypertension",
+        "start_date": "2025-05-16"
+      },
+      {
+        "name": "Escitalopram",
+        "dosage": "50mg",
+        "frequency": "once daily",
+        "condition": "Depression",
+        "start_date": "2025-07-26"
+      },
+      {
+        "name": "Buspirone",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Anxiety",
+        "start_date": "2025-02-12"
+      }
+    ],
+    "baseline_adherence": 0.48,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0098",
+    "name": "Lauren Allen",
+    "age": 49,
+    "gender": "Male",
+    "email": "katrina01@example.net",
+    "phone": "207.453.3308",
+    "conditions": [
+      "GERD",
+      "High Cholesterol"
+    ],
+    "medications": [
+      {
+        "name": "Ranitidine",
+        "dosage": "100mg",
+        "frequency": "three times daily",
+        "condition": "GERD",
+        "start_date": "2025-05-29"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "25mg",
+        "frequency": "once daily",
+        "condition": "High Cholesterol",
+        "start_date": "2025-07-09"
+      }
+    ],
+    "baseline_adherence": 0.36,
+    "allergies": [
+      "Aspirin"
+    ],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0099",
+    "name": "Chad Collins",
+    "age": 37,
+    "gender": "Female",
+    "email": "james53@example.org",
+    "phone": "837-556-9975",
+    "conditions": [
+      "Hypertension",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dosage": "20mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-03-29"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "100mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-01-16"
+      }
+    ],
+    "baseline_adherence": 0.47,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  },
+  {
+    "patient_id": "P0100",
+    "name": "Kelly Arellano",
+    "age": 55,
+    "gender": "Male",
+    "email": "maysjennifer@example.com",
+    "phone": "+1-554-418-2090x306",
+    "conditions": [
+      "Anxiety",
+      "Hypertension",
+      "Arthritis"
+    ],
+    "medications": [
+      {
+        "name": "Lorazepam",
+        "dosage": "20mg",
+        "frequency": "three times daily",
+        "condition": "Anxiety",
+        "start_date": "2025-02-09"
+      },
+      {
+        "name": "Metoprolol",
+        "dosage": "5mg",
+        "frequency": "once daily",
+        "condition": "Hypertension",
+        "start_date": "2025-07-31"
+      },
+      {
+        "name": "Celecoxib",
+        "dosage": "50mg",
+        "frequency": "twice daily",
+        "condition": "Arthritis",
+        "start_date": "2025-06-01"
+      }
+    ],
+    "baseline_adherence": 0.32,
+    "allergies": [],
+    "created_at": "2025-10-18 14:10:50"
+  }
+]

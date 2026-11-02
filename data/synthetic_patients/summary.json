@@ -1,0 +1,16 @@
+{
+  "total_patients": 100,
+  "total_medication_records": 16890,
+  "average_adherence": 0.572,
+  "conditions_distribution": {
+    "High Cholesterol": 39,
+    "Depression": 39,
+    "Diabetes": 37,
+    "Asthma": 36,
+    "Arthritis": 36,
+    "Anxiety": 33,
+    "GERD": 32,
+    "Hypertension": 30
+  },
+  "generation_date": "2025-12-11 23:33:44"
+}
